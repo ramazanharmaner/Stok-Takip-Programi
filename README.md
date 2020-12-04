@@ -1,4 +1,4 @@
-# Stok-Takip-Program-
+# Stok-Takip-Programi
 C# Stok Takip Programı SQL Server
 
 Kullanıcı giriş Ekranı : Burda Kayıtlı kullanıcılar veri tabanında mevcut ise programa giriş yapabilir değilse kayıt olup giriş yapmak zorundadır.
